@@ -1,3 +1,3 @@
 #só um teste
 
-print("Hello, world!")
+print("Hello, word!")
